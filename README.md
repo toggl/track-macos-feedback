@@ -6,10 +6,13 @@ We've finally released the BETA for our fully native macOS app. 🎉
 
 ## 🧰 How can you help?
 
-This repository will serve as an additional hub for user feedback during the BETA testing and beyond!
+This repository will serve as an additional hub for user feedback during the BETA testing!
+
 You can find the official Toggl public feedback discussions for the macOS by going to [Discussions tab](https://github.com/toggl/track-macos-feedback/discussions). These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Toggl product team. Check out [Making suggestions](#-making-suggestions) to learn how to provide feedback.
 
-If you encountered a bug, we recommend reaching out to our support team via the App Menu -> Help -> Send Feedback.
+If you find some issues with the application, let us know by going to [Issues tab](https://github.com/toggl/track-macos-feedback/issues) and using a "Bug report" template.
+
+> An alternative way to report issues is from the app itself, via the App Menu -> Help -> Send Feedback. This way you'll reach out directly to the Support team.
 
 ## 💡 Making suggestions
 
