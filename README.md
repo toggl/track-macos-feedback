@@ -63,7 +63,6 @@ Here's an overview of the current macOS Toggl Track App features and their statu
 | Modern Preferences UI | ✅ | |
 | Reminders | ✅ | New action on notification: snooze reminders (1 hour by default and can be changed in Preferences). |
 | Idle detection | ✅ | Now on the Reminders tab in Preferences. |
-| Global keyboard shortcuts | ✅ | |
 | Stop running entry on sleep/shutdown | ✅ | Now can select the sleep or shutdown option separately. |
 | Focus app when Timer starts/stops | ✅ | Now can select start or stop options separately. |
 | Global keyboard shortcuts | ✅ | |
