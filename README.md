@@ -6,6 +6,8 @@ We've finally released the BETA for our fully native macOS app. 🎉
 
 ## 🧰 How can you help?
 
+Your feedback matters a lot to us during our beta phase. Take the beta version for a spin. Install [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) on your Mac, click on the following invitation [link](https://testflight.apple.com/join/dONNQfWl) and click Install or Update.
+
 This repository will serve as an additional hub for user feedback during the BETA testing!
 
 You can find the official Toggl public feedback discussions for the macOS by going to [Discussions tab](https://github.com/toggl/track-macos-feedback/discussions). These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Toggl product team. Check out [Making suggestions](#-making-suggestions) to learn how to provide feedback.
@@ -26,7 +28,7 @@ Here's an overview of the current macOS Toggl Track App features and their statu
 (_We will update this table as we improve the app during the BETA._)
 
 * ✅ Implemented
-* 🚧 Will be implemented during the Beta phase
+* 🚧 Will be implemented during the Beta phase or right after the release
 * 🔬 Under consideration. We're investigating if the functionality is needed or how it can be improved
 
 | Feature | Status | Comment/Improvement |
@@ -48,8 +50,8 @@ Here's an overview of the current macOS Toggl Track App features and their statu
 | Autocomplete | ✅ | Description, project and tags autocompletes with small UI changes. Can select "No project" in project dropdown. Selected tags are always on top. |
 | `@` and `#` shortcuts | ✅ | |
 | Mini Timer experience | ✅ | Activate with Main Menu -> Window -> Switch to MiniTimer. Customize "floating" behavior in Preferences. |
-| Manual mode | 🚧 | |
-| Duration dropdown | 🚧 | |
+| Manual mode | ✅ | |
+| Duration dropdown | ✅ | |
 | | | |
 | **Calendar/Timeline** | | Timeline tab is renamed to Calendar. |
 | Create Time Entry with mouse click & drag | ✅ | |
@@ -60,7 +62,6 @@ Here's an overview of the current macOS Toggl Track App features and their statu
 | Context menu | ✅ | |
 | Calendar integration | ✅ | Show Calendar events in a separate column. Allow copying events as time entries. _Should be configured in the Web application._ |
 | Activity timeline | 🚧 | |
-| Undo entry deletion | 🚧 | |
 | | | |
 | **Other** | | |
 | Modern Preferences UI | ✅ | |
@@ -71,5 +72,3 @@ Here's an overview of the current macOS Toggl Track App features and their statu
 | Global keyboard shortcuts | ✅ | |
 | Pomodoro | 🚧 | An improved version is planned, with a focus UI. |
 | Autotracker | 🔬 | |
-| Touch Bar | 🔬 | |
-| Proxy preferences | 🔬 | |
